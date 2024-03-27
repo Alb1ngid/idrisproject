@@ -1,0 +1,6 @@
+git init
+
+git remote add origin
+
+команда регулярки
+git add
